@@ -1,0 +1,34 @@
+[
+    {
+        "id": "463102190467285014",
+        "username": "emirciño",
+        "epic": {
+            "hasEpic": true,
+            "epicID": "123123",
+            "username": "emirchus"
+        },
+        "warns": [
+            {
+                "expired": false,
+                "warnDate": 1595785598834,
+                "warnMessage": "Mal uso del canal midgame",
+                "hasOwn": false,
+                "channel": "midgame"
+            },
+            {
+                "expired": false,
+                "warnDate": 1595785764005,
+                "warnMessage": "Mal uso del canal midgame",
+                "hasOwn": false,
+                "channel": "midgame"
+            },
+            {
+                "expired": false,
+                "warnDate": 1595785778680,
+                "warnMessage": "Mal uso del canal midgame",
+                "hasOwn": false,
+                "channel": "midgame"
+            }
+        ]
+    }
+]

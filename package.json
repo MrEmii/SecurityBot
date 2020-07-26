@@ -1,0 +1,21 @@
+{
+  "name": "securitybot",
+  "version": "1.0.0",
+  "description": "Bot dude",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon --experimental-json-modules ."
+  },
+  "author": "MrEmii",
+  "license": "ISC",
+  "nodemonConfig": {
+    "ignore": [
+      "db"
+    ]
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "node-html-to-image": "^3.0.1"
+  },
+  "type": "module"
+}
